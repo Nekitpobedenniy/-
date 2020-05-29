@@ -8,7 +8,7 @@
     }
 }
 body{
-    background-image:url(img/patern.jpg);
+    background-image:url(patern.jpg);
     background-size:100px;
     display:flex;
     flex-direction:column;
